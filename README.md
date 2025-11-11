@@ -76,7 +76,7 @@ The dashboard is designed for bank executives, analysts, and decision-makers to 
 
 ## 📂 Tech Stack
 
-• Visualization Tool: Power BI / Tableau (based on your setup)
+• Visualization Tool: Power BI 
 
 • Data Source: Mock banking dataset created using ChatGPT (FY20–FY24)
 
